@@ -5,5 +5,5 @@
 
 
 
-console.log(filterEvens([1, 8, 3, 6, 2])); // [2, 6, 2]
+console.log(filterEvens([1, 8, 3, 6, 2])); // [8, 6, 2]
 
